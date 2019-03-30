@@ -1,24 +1,34 @@
-Free Ruby textbooks to work through:
+<h1 align="center">Some Bootcamp Prep Resourses<h1>
 
-Why’s (Poignant) Guide to Ruby
-https://poignant.guide/book/
+## Books:
+Ruby textbooks to work through:
 
-Programming Ruby: The Pragmatic Programmer's Guide
-http://phrogz.net/ProgrammingRuby/frameset.html
+* [Why’s (Poignant) Guide to Ruby](https://poignant.guide/book/)
 
-Ruby for Beginners
-http://ruby-for-beginners.rubymonstas.org/index.html
+* [Programming Ruby: The Pragmatic Programmer's Guide](http://phrogz.net/ProgrammingRuby/frameset.html)
 
-Ruby on Rails Tutorial
-https://www.railstutorial.org/book
+* [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
 
+* [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 
-More general link:
+## Links:
 
-An overview of web development and its various technologies:
-http://bit.ly/2FMDWD18
+More general links:
 
-Article on writing flexible code with the single responsibility principle:
-http://bit.ly/2UlvjJV
+* An interactive [mind-map](http://bit.ly/2FMDWD18) overview of web development and its various technologies.
+* There's also [this](https://github.com/kamranahmedse/developer-roadmap) developer roadmap.
+
+Writing cleaner code articles:
+
+A Medium [article](http://bit.ly/2UlvjJV) on writing flexible code with the single responsibility principle.
+
+## References:
 
 Coding references:
+
+[Regex Quick Reference](http://regexrenamer.sourceforge.net/help/regex_quickref.html)
+
+[HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[Ruby Percent Notation](https://viblo.asia/p/ruby-percent-notation-q-q-w-w-x-r-s-RQqKLz74l7z)
+
